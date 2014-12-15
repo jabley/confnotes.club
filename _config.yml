@@ -27,7 +27,6 @@ destination: ./_site
 plugins:     ./_plugins
 future:      true
 lsi:         false
-permalink:   :category/:title/
 
 exclude:
   - Gemfile

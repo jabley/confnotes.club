@@ -2,7 +2,7 @@
 layout: post
 title:  "Velocity EU Conference 2014 – Day 1"
 date:   2014-11-17 13:43:17
-categories: oreilly velocity conference 2014
+tags: oreilly velocity conference 2014
 ---
 TLDR; Velocity is a great conference for web and operations people, and why didn't you go already?
 
