@@ -1,6 +1,5 @@
 # Site settings
 title: Conference notes
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a site containing notes about conferences and papers.
 baseurl: "" # the subpath of your site, e.g. /blog/
