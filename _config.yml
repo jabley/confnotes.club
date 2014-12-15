@@ -1,0 +1,48 @@
+# Site settings
+title: Conference notes
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a site containing notes about conferences and papers.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.confnotes.club" # the base hostname & protocol for your site
+twitter_username: jabley
+github_username:  jabley
+
+# Build settings
+markdown: kramdown
+
+safe:        false
+
+baseurl:     /
+
+source:      ./
+destination: ./_site
+plugins:     ./_plugins
+future:      true
+lsi:         false
+markdown:    kramdown
+permalink:   :category/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: ''
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
+
+sass:
+  syntax: scss        # scss|sass
+  style:  compressed  # nested|expanded|compact|compressed
