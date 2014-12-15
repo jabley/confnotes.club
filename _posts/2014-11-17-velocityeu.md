@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Velocity EU Conference 2014 – Day 1"
+date:   2014-11-17 13:43:17
+categories: oreilly velocity conference 2014
+---
+TLDR; Velocity is a great conference for web and operations people, and why didn't you go already?
+
+## Is TLS Fast Yet?
+
+This was a talk by [Ilya Grigorik](https://twitter.com/igrigorik) full of practical, actionable things that you can do to serve your site over TLS, and make it fast.
+
+[My notes on Ilya's talk](https://flic.kr/p/q6qf3z).
+
+## Monitoring: The Math Behind Bad Behavior
+
+[Theo Schlossnagle](https://twitter.com/postwait) gave an excellent talk (which didn't involve much maths) about the problems that [Circonus](https://www.circonus.com/) see with handling massive amounts of data, and reliably detecting anomalies. I found this quite hard to take notes, and it wasn't as practical in my context as the first talk, but still really interesting.
+
+[My notes on Theo's talk](https://flic.kr/p/q6yfZ5).
+
+## Design Reviews for Operations
+
+[Mandi Walls](https://twitter.com/lnxchk) of Chef showed us how operations should be involved early on. She did a great job of emphasising the importance of having the right people having the right conversations at the right time.
+
+I felt a little over-qualified for this talk, given that I've worked with [Gareth Rushgrove](https://twitter.com/garethr) for most of the last 3 years, and helped write some of the [user stories for operations](https://www.gov.uk/service-manual/operations/web-operations-stories) that GDS published on GOV.UK. Not everyone has had that privilege though!
+
+[My notes on Mandi's talk](https://flic.kr/p/q4jUJ7).
+
+## What Ops Can Learn From Design
+
+[Rob Treat](https://twitter.com/robtreat2) of [Omniti](http://www.omniti.com/) brought together [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) and [The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/) to show how designing with empathy to create intuitive interfaces can be easy to overlook, but can have a massive impact on people using your stuff.
+
+[My notes on Rob's talk](https://flic.kr/p/q6qhwn).
+
+## Statistical Learning-based Automatic Anomaly Detection @Twitter
+
+Anomaly Detection seemed to be quite popular this year (see Theo's talk and Baron's proposed talk). Here, [Arun Kejariwal](https://twitter.com/arun_kejariwal) talked about the state of the art, how it didn't quite fit for Twitter's usage, and what they did about it. The tools and code should be open-sourced in a few weeks, so people can plug it into their own problems.
+
+[My notes on Arun's talk](https://flic.kr/p/q4jVLs).
+
+## Your Place or Mine: A Discussion of Where to Host Your Site
+
+This was an emergency panel convened since the originally planned speaker had something come up. Nice end to the day, talking about cloud and similar issues. [Michael](https://twitter.com/bruntonspall) did a nice job of not answering someone that seemed to be either aggrieved, or trolling quite hard. He's a proper civil servant.

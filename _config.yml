@@ -7,26 +7,47 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.confnotes.club" # the base hostname & protocol for your site
 twitter_username: jabley
 github_username:  jabley
+timezone: UTC
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "James Abley"
 
 # Build settings
 markdown: kramdown
 
 safe:        false
 
-baseurl:     /
-
 source:      ./
 destination: ./_site
 plugins:     ./_plugins
 future:      true
 lsi:         false
-markdown:    kramdown
 permalink:   :category/:title/
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+  fenced_code_blocks: true
+
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
 
 kramdown:
   auto_ids: true,
