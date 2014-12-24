@@ -4,9 +4,9 @@ title:  "Velocity EU Conference 2014 – Day 2"
 date:   2014-11-18 13:43:17
 tags: oreilly velocity conference 2014
 ---
-Disclaimer - 2 of my friends that I work with at the Government Digital Service (GDS) gave talks.
+Disclaimer -- 2 of my friends that I work with at the Government Digital Service (GDS) gave talks.
 
-## Microservices – What an ops team needs to now
+## Microservices -- What an ops team needs to now
 
 This was a talk by [Michael Brunton-Spall](https://twitter.com/bruntonspall) from GDS. He covered:
 
@@ -23,7 +23,7 @@ This was a talk by [Michael Brunton-Spall](https://twitter.com/bruntonspall) fro
 
 ## Performance is a People Problem
 
-[Ben Evans](https://twitter.com/kittylyst) gave a talk inspired by Gerry Weinberg's quote – "it's always a people problem". He stressed the importance of a scientific, measurement-driven approach:
+[Ben Evans](https://twitter.com/kittylyst) gave a talk inspired by Gerry Weinberg's quote -- "it's always a people problem". He stressed the importance of a scientific, measurement-driven approach:
 
 1. Have a hypothesis
 1. Measure
@@ -46,11 +46,11 @@ We tend to have one or more of the following goals when changing a system:
 - UAT is the developer machine aka it works on my machine
 - Production-like data is hard to play with outside of production (so benchmarks often aren't applicable)
 - Playing with switches (rather than doing meaningful work)
-- Configuration by Fairy Tales – we always set the bifur-fibrillator to 111
+- Configuration by Fairy Tales -- we always set the bifur-fibrillator to 111
 - Performance Tips have a shelf-life (JVM GC tends to get better with each release, making GC tuning settings obsolete / counter-productive)
 - Blame Donkey (it's always the IO / network for that sub-system)
-- Microanalysis – getting bogged down in detail
-- Throw it over the wall – silos are bad, m'kay?
+- Microanalysis -- getting bogged down in detail
+- Throw it over the wall -- silos are bad, m'kay?
 
 ### Solutions
 
@@ -101,7 +101,7 @@ A service is:
 - a relationship
 - co-creation
 
-AirBnB talk about 'the product is the trip' --- not a place to stay.
+AirBnB talk about 'the product is the trip' -- not a place to stay.
 
 We deal with trust a lot in relationships. Trust is not a fixed quantity, it varies over time:
 
@@ -149,3 +149,9 @@ Here, [Keith Mitchell](https://twitter.com/specialized) talked about how BBC Spo
 https://github.com/bbc-sport contains more of their code.
 
 [My notes on Keith's talk](https://flic.kr/p/pPyX9M).
+
+## Summary
+
+Velocity is one of my favourite technology conferences. I've not even covered the people track. Once again it was cracking meeting new people, having fun and learning.
+
+Plus pints of gin, but that's another story...
