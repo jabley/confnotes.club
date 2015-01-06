@@ -17,6 +17,13 @@ defaults:
       layout: "post"
       author: "James Abley"
 
+collections:
+  papers:
+    output: true
+  conferences:
+    output: true
+
+
 # Build settings
 markdown: kramdown
 
