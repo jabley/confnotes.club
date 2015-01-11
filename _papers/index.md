@@ -29,7 +29,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Organizing Programmes Without Classes](http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf)
 - [Mining Query Logs: Turning Search Usage Data into Knowledge](http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/wma/paper.pdf)
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook-e1.pdf)
-- [Preliminary Experiments In The Physiology And Psychology of Reading]()
+- [Preliminary Experiments In The Physiology And Psychology of Reading](http://www.jstor.org/stable/pdfplus/1412192.pdf)
 - [Predicate Dispatching: A Unified Theory](https://github.com/papers-we-love/papers-we-love/blob/master/plt/predicate-dispatching.pdf?raw=true)
 - [Lectures On Constructive Functional Programming](https://www.cs.ox.ac.uk/files/3390/PRG69.pdf)
 - [Recursive Functions of Symbolic Expressions And Their Computation By Machine, Part 1](http://www-formal.stanford.edu/jmc/recursive.pdf)
