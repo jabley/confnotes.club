@@ -20,9 +20,11 @@ defaults:
 collections:
   papers:
     output: true
-  conferences:
+  events:
     output: true
 
+gems:
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
