@@ -6,7 +6,7 @@ layout: default
   <h1 class="page-heading"><a href="/events/">Events</a></h1>
 
   <ul class="post-list">
-    {% for post in site.events %}
+    {% for post in site.events reversed %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -20,7 +20,7 @@ layout: default
   <h1 class="page-heading"><a href="/papers/">Papers</a></h1>
 
   <ul class="post-list">
-    {% for paper in site.papers %}
+    {% for paper in site.papers reversed %}
       <li>
         <span class="post-meta">{{ paper.date | date: "%b %-d, %Y" }}</span>
 
