@@ -37,3 +37,4 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Why Functional Programming Matters](https://github.com/papers-we-love/papers-we-love/blob/master/functional_programming/why-functional-programming-matters.pdf?raw=true)
 - [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf) – Madhavapeddy et al. 2013]
 - [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
+- [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.eecs.harvard.edu/~mdw/papers/seda-sosp01.pdf)
