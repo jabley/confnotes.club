@@ -38,3 +38,4 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf) – Madhavapeddy et al. 2013]
 - [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
 - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.eecs.harvard.edu/~mdw/papers/seda-sosp01.pdf)
+- [Solution of a Problem in Concurrent Programming Control](http://www.di.ens.fr/~pouzet/cours/systeme/bib/dijkstra.pdf)
