@@ -10,9 +10,12 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 
 - [Time, Clocks and the Ordering of Events in a Distributed System](http://research.microsoft.com/users/lamport/pubs/time-clocks.pdf)
 - [The Byzantine Generals Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
+- [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - [The Part-Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 - [Dynamo: Amazon's Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](http://research.google.com/pubs/archive/43146.pdf)
+- [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf)
+- [Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
 - [Out of the Tarpit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
 - [Equal Rights for Functional Objects](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.23.9999)
 - [On Understanding Types, Data Abstraction and Polymorphism](http://research.microsoft.com/pubs/67509/onunderstanding.a4.pdf)
