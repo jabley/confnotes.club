@@ -43,3 +43,5 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
 - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.eecs.harvard.edu/~mdw/papers/seda-sosp01.pdf)
 - [Solution of a Problem in Concurrent Programming Control](http://www.di.ens.fr/~pouzet/cours/systeme/bib/dijkstra.pdf)
+- [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)
+- [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
