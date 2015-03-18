@@ -45,3 +45,8 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Solution of a Problem in Concurrent Programming Control](http://www.di.ens.fr/~pouzet/cours/systeme/bib/dijkstra.pdf)
 - [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)
 - [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
+- [A Comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf)
+- [Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs](http://web.stanford.edu/class/cs242/readings/backus.pdf)
+- [Consistency Analysis in Bloom: a CALM and Collected Approach](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
+- [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
+- [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
