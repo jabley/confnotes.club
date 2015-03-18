@@ -17,7 +17,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf)
 - [Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
 - [Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
-- [Out of the Tarpit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
+- [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
 - [Equal Rights for Functional Objects](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.23.9999)
 - [On Understanding Types, Data Abstraction and Polymorphism](http://research.microsoft.com/pubs/67509/onunderstanding.a4.pdf)
 - [The Invention of Concurrent Programming](http://brinch-hansen.net/papers/2002b.pdf)
