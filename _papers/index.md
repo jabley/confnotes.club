@@ -50,3 +50,4 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Consistency Analysis in Bloom: a CALM and Collected Approach](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
 - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 - [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
+- [Congestion Avoidance and Control](http://ee.lbl.gov/papers/congavoid.pdf)
