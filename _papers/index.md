@@ -51,3 +51,10 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 - [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
 - [Congestion Avoidance and Control](http://ee.lbl.gov/papers/congavoid.pdf)
+
+## Useful tools
+
+A lot of these papers are published in standard 2-column format. This can be quite annoying to read on a Kindle or similar. You might want to look at:
+
+- [k2pdfopt optimises PDF for mobile e-readers](http://willus.com/k2pdfopt/)
+- [the hosted version](http://convert-kindle.com/)
