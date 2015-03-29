@@ -51,6 +51,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf)
 - [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf)
 - [Congestion Avoidance and Control](http://ee.lbl.gov/papers/congavoid.pdf)
+- [Google's Hybrid Approach to Research](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf)
 
 ## Useful tools
 
