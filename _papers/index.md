@@ -54,6 +54,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Congestion Avoidance and Control](http://ee.lbl.gov/papers/congavoid.pdf)
 - [Google's Hybrid Approach to Research](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf)
 - [Naiad: A Timely Dataflow System](http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf)
+- [Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://www.vldb.org/pvldb/vol8/p209-yu.pdf)
 
 ## Useful tools
 
