@@ -40,7 +40,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Lectures On Constructive Functional Programming](https://www.cs.ox.ac.uk/files/3390/PRG69.pdf)
 - [Recursive Functions of Symbolic Expressions And Their Computation By Machine, Part 1](http://www-formal.stanford.edu/jmc/recursive.pdf)
 - [Why Functional Programming Matters](https://github.com/papers-we-love/papers-we-love/blob/master/functional_programming/why-functional-programming-matters.pdf?raw=true)
-- [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf) – Madhavapeddy et al. 2013]
+- [Unikernels: Library Operating Systems for the Cloud – Madhavapeddy et al. 2013](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
 - [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
 - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.eecs.harvard.edu/~mdw/papers/seda-sosp01.pdf)
 - [Solution of a Problem in Concurrent Programming Control](http://www.di.ens.fr/~pouzet/cours/systeme/bib/dijkstra.pdf)
