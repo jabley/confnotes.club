@@ -8,6 +8,7 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 
 ## The Queue
 
+- [Reconstructing human contributions to accidents: the new view on error and performance, Sidney W.A. Dekker](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.411.4985&rep=rep1&type=pdf)
 - [Time, Clocks and the Ordering of Events in a Distributed System](http://research.microsoft.com/users/lamport/pubs/time-clocks.pdf)
 - [The Byzantine Generals Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf)
 - [Distributed Snapshots: Determining Global States of a Distributed System](http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf)
