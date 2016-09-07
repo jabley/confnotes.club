@@ -56,6 +56,9 @@ Not necessarily papers we love, but we try to continually learn and improve. Rea
 - [Google's Hybrid Approach to Research](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf)
 - [Naiad: A Timely Dataflow System](http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf)
 - [Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://www.vldb.org/pvldb/vol8/p209-yu.pdf)
+- [Balls into Bins -- A Simple and Tight Analysis](http://wwwmayr.informatik.tu-muenchen.de/personen/raab/publ/balls.pdf)
+- [The Power of Two Choices in Randomized Load Balancing](https://www.eecs.harvard.edu/~michaelm/postscripts/mythesis.pdf)
+- [Join-Idle-Queue A Novel Load Balancing Algorithm for Dynamically Scalable Web Services](https://www.microsoft.com/en-us/research/publication/join-idle-queue-a-novel-load-balancing-algorithm-for-dynamically-scalable-web-services/)
 
 ## Useful tools
 
