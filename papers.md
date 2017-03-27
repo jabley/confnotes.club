@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /papers/
 ---
 
 # Papers We've Read

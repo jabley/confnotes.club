@@ -24,53 +24,8 @@ collections:
     output: true
 
 gems:
+  - jekyll-feed
   - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
-
-safe:        false
-
-source:      ./
-destination: ./_site
-plugins:     ./_plugins
-future:      true
-lsi:         false
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
-  fenced_code_blocks: true
-
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
-kramdown:
-  auto_ids: true,
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: ''
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
-
-sass:
-  syntax: scss        # scss|sass
-  style:  compressed  # nested|expanded|compact|compressed

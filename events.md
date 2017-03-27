@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /events/
 ---
 
 # Events, conferences and meetups
