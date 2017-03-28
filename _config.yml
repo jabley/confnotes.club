@@ -20,8 +20,10 @@ defaults:
 collections:
   papers:
     output: true
+    permalink: /papers/:title/
   events:
     output: true
+    permalink: /events/:title/
 
 gems:
   - jekyll-feed
